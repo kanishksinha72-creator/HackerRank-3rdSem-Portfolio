@@ -66,3 +66,14 @@ Continue solving HackerRank problems throughout the 3rd semester and maintain th
 ## 🏆 HackerRank Profile
 
 [View my HackerRank Profile](https://www.hackerrank.com/profile/kanishksinha72)
+
+
+## 📊 Complexity Analysis
+
+| Problem | Time Complexity | Space Complexity |
+|---|---|---|
+| Diagonal Difference | O(N) | O(1) |
+| Dynamic Array | O(N + Q) | O(N) |
+| Time Conversion | O(1) | O(1) |
+| Compare the Triplets | O(1) | O(1) |
+| Sparse Arrays | O(N + Q) | O(N) |
