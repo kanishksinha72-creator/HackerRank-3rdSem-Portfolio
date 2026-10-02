@@ -62,3 +62,7 @@ Continue solving HackerRank problems throughout the 3rd semester and maintain th
 **Language:** C++
 **Platform:** HackerRank
 **Semester:** 3rd Semester
+
+## 🏆 HackerRank Profile
+
+[View my HackerRank Profile](https://www.hackerrank.com/profile/kanishksinha72)
