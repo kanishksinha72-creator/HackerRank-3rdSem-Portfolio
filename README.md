@@ -68,6 +68,18 @@ Continue solving HackerRank problems throughout the 3rd semester and maintain th
 [View my HackerRank Profile](https://www.hackerrank.com/profile/kanishksinha72)
 
 
+## 📸 Accepted Submissions
+
+| Problem | HackerRank Result |
+|---|---|
+| Diagonal Difference | [View Screenshot](01-diagonal-difference/01-hackerrank-result.png) |
+| Dynamic Array | [View Screenshot](02-dynamic-array/02-hackerrank-result.png) |
+| Time Conversion | [View Screenshot](03-time-conversion/03-hackerrank-result.png) |
+| Compare the Triplets | [View Screenshot](04-compare-the-triplets/04-hackerrank-result.png) |
+| Sparse Arrays | [View Screenshot](05-sparse-arrays/05-hackerrank-result.png) |
+
+
+
 ### ⭐ HackerRank Achievement
 
 ![HackerRank 3-Star Badge](15-hackerrank-profile-3-star-badge.png)
