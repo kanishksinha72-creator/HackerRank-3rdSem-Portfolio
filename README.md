@@ -68,6 +68,11 @@ Continue solving HackerRank problems throughout the 3rd semester and maintain th
 [View my HackerRank Profile](https://www.hackerrank.com/profile/kanishksinha72)
 
 
+### ⭐ HackerRank Achievement
+
+![HackerRank 3-Star Badge](15-hackerrank-profile-3-star-badge.png)
+
+
 ## 📊 Complexity Analysis
 
 | Problem | Time Complexity | Space Complexity |
